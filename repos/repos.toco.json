@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "CosmicKernel",
-      "repo": "https://github.com/Miracleprjkt/Kernel_Xiaomi_Ginkgo",
-      "branch": "lineage-19.1",
+      "repo": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_ginkgo",
+      "branch": "arrow-13.1",
       "device": "ginkgo",
       "defconfig": "vendor/ginkgo-perf_defconfig"
     },
